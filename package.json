@@ -1,6 +1,7 @@
 {
     "marp": {
       "inputDir": "./topics",
-      "output": "./release"
+      "output": "./release",
+      "engine": "./utils/engine.js"
     }
   }

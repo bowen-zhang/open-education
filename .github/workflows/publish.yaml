@@ -29,7 +29,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Convert Markdown into HTML and PDF
+      - name: Copy files
+        run: |
+          rsync -av --exclude='*.md' topics/ releases/
+
+      - name: Convert Markdown to HTML
         uses: KoharaKazuya/marp-cli-action@v4
         with:
           generate-pdf: false
