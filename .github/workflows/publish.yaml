@@ -31,7 +31,7 @@ jobs:
 
       - name: Copy files
         run: |
-          rsync -av --exclude='*.md' topics/ releases/
+          rsync -av --exclude='*.md' topics/ release/
 
       - name: Convert Markdown to HTML
         uses: KoharaKazuya/marp-cli-action@v4
