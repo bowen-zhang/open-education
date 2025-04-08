@@ -1,58 +1,45 @@
 ---
 marp: true
+theme: aviation
 header: Principle of Flight
 footer: © 2024 Dream of Flight, Inc
 ---
 
-# Observations
+# Atmosphere
 
 ---
 
-## Let's build an airplane!
-https://www.foldnfly.com/1.html#Basic-Dart
+## Pressure
 
-<!--
-I bet many of you knew how to fly an airplane already, don't you.
-Let's try.
+- ~ 29.92 in Hg @ sea level
+- ~ -1 in / 1000ft
 
-Activity: build a paper airplane, and fly it.
-
-Question: what do you observe?
-Answer: (see next page)
--->
+![bg fit right](images/mercury-barometer.jpg)
 
 ---
 
-## Congratulations!
-
-You just made a history in 5 minutes.
+![bg fit](images/pressure-by-altitude.png)
 
 ---
 
-![bg fit](images/paper-airplane-flight-path.png)
+## Temperature
 
-<!--
-Energy:
-  - Kinetic Energy: velocity
-  - Potential Energy: height
+- -2°C / 1000ft (<40,000ft)
 
-Energy of Air:
-  - Kinetic Energy: velocity
-  - Potential Energy: pressure
+![bg right](images/temperature-by-altitude.jpg)
 
-Climb:
-  - Kinetic energy => potential energy (and energy in air)
+---
 
-Angle of Attack
-  - Pitch up & down
+## Density
 
-Stall
-  - Minimum speed
-  - Falling / lose of lift
+- ∝ Pressure
+- ∝ 1 / temperature
+- ∝ 1 / humidity
 
-Stall Recovery
-  - By itself / by design
-  - Reduces angle of attack
-  - Potential energy => kinetic energy (and energy in air)
+---
 
--->
+## Standard Day
+
+- Sea level
+- 29.92 in Hg
+- 15°C

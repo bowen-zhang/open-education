@@ -1,0 +1,16 @@
+/* @theme aviation */
+
+@import 'default';
+
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+
+key {
+   color: red 
+}
+
+quote {
+   color: grey;
+}
