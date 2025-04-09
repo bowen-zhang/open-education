@@ -23,6 +23,6 @@ Whether you are riding a 737, a Cessna 172, or a glider, after this lesson, you 
 
 - [Part 1: Atmosphere](./part-01.md)
 - [Part 2: How Paper Airplane Flies](./part-02.md)
-- [Part 3: Lift](./part-04.md)
+- [Part 3: Lift](./part-03.md)
 - [Part 4: Stall](./part-04.md)
 - [Part 5: Circulation](./part-05.md)
