@@ -3,3 +3,4 @@
 ## Ground Lessons
 
 [1. Principle of Flight](principle-of-flight/index.md)
+[2. Aerodynamics](aerodynamics/index.md)

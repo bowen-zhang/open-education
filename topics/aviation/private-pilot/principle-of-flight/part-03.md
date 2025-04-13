@@ -152,9 +152,15 @@ A function of:
 
 ---
 
-[![Takeoff](https://img.youtube.com/vi/7qqYam-A368/0.jpg)](https://youtu.be/7qqYam-A368?feature=shared&t=93)|[![Landing](https://img.youtube.com/vi/utvgG9HDBiE/0.jpg)](https://www.youtube.com/watch?v=utvgG9HDBiE&t=42)
+[![Video: Airplane Takeoff](https://img.youtube.com/vi/7qqYam-A368/0.jpg)](https://youtu.be/7qqYam-A368?feature=shared&t=93)|[![Video: Airplane Landing](https://img.youtube.com/vi/utvgG9HDBiE/0.jpg)](https://www.youtube.com/watch?v=utvgG9HDBiE&t=42)
 
 ---
+
+## Angle of Incidence
+
+![](images/angle-of-incidence.png)
+
+___
 
 ## Takeaways
 
