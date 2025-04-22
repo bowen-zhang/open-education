@@ -1,6 +1,6 @@
 ---
 marp: true
-header: Principle of Flight
+header: Aerodynamics
 footer: © 2024 Dream of Flight, Inc
 ---
 
@@ -14,11 +14,20 @@ footer: © 2024 Dream of Flight, Inc
 
 ---
 
-## Lift == Weight?
+## Lift == Weight
 
-![takeoff]()
-![turbulence]()
-![high speed turn by fighter jet]()
+Whenever there's no vertical **acceleration**:
+- Crusing
+- Climbing
+- Descending
+
+---
+
+## Lift $\neq$ Weight
+
+|Turbulence|Turns/Rolls|
+|--|--|
+|[![turbulence](https://img.youtube.com/vi/Jc0HemKdqAc/0.jpg)](https://www.youtube.com/watch?v=Jc0HemKdqAc)|[![high speed turn by fighter jet](https://img.youtube.com/vi/_w614FRf4g8/0.jpg)](https://youtu.be/_w614FRf4g8?si=fDTuaZ6H3KdfzfgM&t=642)|
 
 <!--
 Question: does lift always equal to weight? When would it not?
@@ -33,17 +42,50 @@ Answers:
 
 ---
 
+## Load During Turns
+
+![](images/load-during-turn.png)
+
+<!--
+Question: how is increased lift generated?
+Answer: higher speed, or higher AoA.
+
+-->
+
+---
+
+## Load v.s. Stall Speed
+
+$$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$$
+
+<br/>
+<center>
+
+|Bank Angle|Lift|Max AoA|Lowest Speed|
+|:--:|:--:|:--:|:--:|
+|0°|1x|15°|60kts|
+|30°|1.2x|15°|66kts|
+|45°|1.4x|15°|71kts|
+|60°|2.0x|15°|85kts|
+
+</center>
+
+---
+
 ## Load Factor
 
 $$Load Factor = \frac{Lift}{Weight}$$
 
 <br/>
+<center>
 
-|Category|Load Factor Limit|
-|--|--|
-|Normal|-1.52 ~ 3.8G|
-|Utility|-1.76 ~ 4.4G|
-|Acrobatic|-3.0 ~ 6.0G|
+|Category|Min Limit|Max Limit|
+|--|--|--|
+|Normal|-1.52G|3.8G|
+|Utility|-1.76G|4.4G|
+|Acrobatic|-3.0G|6.0G|
+
+</center>
 
 ---
 
@@ -81,5 +123,6 @@ Exercise: how much lift can be generated at speed 0, 60, 80, 100, 120, 140, 160m
 
 - Va: prevent structural damage when maneuvering
 - Vno: prevent structural damage when cruising with turbulence
+- Vne: prevent structural failure
 
 -->

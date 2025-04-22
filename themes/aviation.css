@@ -7,6 +7,10 @@ img[alt~="center"] {
   margin: 0 auto;
 }
 
+invert {
+   color: white;
+}
+
 key {
    color: red 
 }

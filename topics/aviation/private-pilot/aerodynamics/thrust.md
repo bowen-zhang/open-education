@@ -1,11 +1,13 @@
 ---
 marp: true
 theme: aviation
-header: Principle of Flight
+header: Aerodynamics
 footer: © 2024 Dream of Flight, Inc
 ---
 
 # Thrust
+
+![bg right fit](images/thrust-force.png)
 
 ---
 
@@ -17,20 +19,37 @@ $Power = Force \times Velocity$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$Drag = \frac{1}{2} \times \rho \times V^2 \times C_D \times S$
 
-
 <br/>
 
 $Power = f(V^3)$
 
 ---
 
-## Basic Propeller
+<invert>
 
-![simple propeller]()
+## Propeller
+
+$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
+
+</invert>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+![bg ](images/airplane-propeller.png)
 
 ---
 
-## Real Propeller
+## Propeller Design
+
+a 60in propeller @ 2500 RPM...
+- Tip speed: 200m/s
+- Root speed: 66m/s
+
+<br/>
+
+$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
+
+![bg right fit](images/propeller-speed.png)
 
 ---
 
@@ -45,36 +64,96 @@ $Power = f(V^3)$
 
 ## Reaction
 
+![](images/action-reaction.png)
+
+<!--
+Engine manufacturered in U.S.: clockwise rotation.
+Consequence: left roll tendency
+Mitigation: off-center mounting
+-->
+
 ---
 
 ## Slipstream
+
+<center>
+
+![h:450](images/slipstream.png)
+
+</center>
+
+<!--
+Consequence: left yaw tendency.
+-->
 
 ---
 
 ## Gyroscopic Action
 
+![](images/gyroscopic-action.png)
+
+<!--
+- Consequence:
+  - When pitching up, yaw to the right;
+  - When pitching down, yaw to the left;
+- Mitigation: coordinated rudder input
+-->
+
 ---
 
 ## P-Factor
+
+<center>
+
+![h:450](images/propeller-angle-of-attack.png)
+
+</center>
+
+---
+
+## P-Factor
+
+For an airplane flying at 90kts,
+with a 74" propeller at 2400RPM...
+
+<br/>
+
+When leveling:
+
+![bg right fit](images/p-factor-0-pitch.png)
+
+---
+
+## P-Factor
+
+For an airplane flying at 90kts,
+with a 74" propeller at 2400RPM...
+
+<br/>
+
+When pitching up 15°:
+
+![bg right fit](images/p-factor-15-pitch.png)
 
 ---
 
 ## Torque Effects - Summary
 
   
-||Climb|Descent|
-|--|--|--|
-|Reaction|Left Roll (strong)|Left Roll (weak)|
-|Slipstream|Left Yaw (strong)|Left Yaw (weak)|
-|Gyroscope|Right Yaw (strong, momentary)|Left Yaw (weak, momentary)|
-|P-Factor|Left Yaw (strong)|Right Yaw (weak)|
-|-|||
-|Total|Left Yaw|None|
+||Crusing|High Power|Low Power|Pitching Up|Pitching Down|
+|--|--|--|--|--|--|
+|Reaction|Left Roll|Left Roll +|Left Roll --|
+|Slipstream|Left Yaw -|Left Yaw +|Left Yaw --|
+|Gyroscope||||Right Yaw|Left Yaw|
+|P-Factor||||Left Yaw +|Right Yaw +|
+
 
 <br />
 
 <footnote>For typical U.S. single engine aircraft with clockwise rotating propeller.</footnote>
 
-
 ---
 
+## Takeaway
+
+- Keep airplane straight when changing pitch & power
