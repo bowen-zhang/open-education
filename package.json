@@ -3,6 +3,7 @@
       "inputDir": "./topics",
       "output": "./release",
       "engine": "./utils/engine.js",
-      "themeSet": "./themes"
+      "themeSet": "./themes",
+      "html": true
     }
   }
