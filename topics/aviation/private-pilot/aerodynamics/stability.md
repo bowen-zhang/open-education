@@ -38,7 +38,13 @@ Dynamic stability: response over time when disturbed.
 
 ---
 
-[![bg](https://img.youtube.com/vi/JuHsgAX3TBY/0.jpg)](https://www.youtube.com/watch?v=JuHsgAX3TBY)
+## Instability: Example
+
+<center>
+
+[![h:450](https://img.youtube.com/vi/JuHsgAX3TBY/0.jpg)](https://www.youtube.com/watch?v=JuHsgAX3TBY)
+
+</center>
 
 ---
 
