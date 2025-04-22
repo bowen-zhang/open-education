@@ -27,7 +27,7 @@ Whenever there's no vertical **acceleration**:
 
 |Turbulence|Turns/Rolls|
 |--|--|
-|[![turbulence](https://img.youtube.com/vi/Jc0HemKdqAc/0.jpg)](https://www.youtube.com/watch?v=Jc0HemKdqAc){:target="_blank"}|[![high speed turn by fighter jet](https://img.youtube.com/vi/_w614FRf4g8/0.jpg)](https://youtu.be/_w614FRf4g8?si=fDTuaZ6H3KdfzfgM&t=685){:target="_blank"}|
+|[![turbulence](https://img.youtube.com/vi/Jc0HemKdqAc/0.jpg)](https://www.youtube.com/watch?v=Jc0HemKdqAc)|[![high speed turn by fighter jet](https://img.youtube.com/vi/_w614FRf4g8/0.jpg)](https://youtu.be/_w614FRf4g8?si=fDTuaZ6H3KdfzfgM&t=685)|
 
 <!--
 Question: does lift always equal to weight? When would it not?
@@ -91,7 +91,7 @@ $$Load Factor = \frac{Lift}{Weight}$$
 
 ## Vg Diagram
 
-[Airfoil Simulation](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/){:target="_blank"}
+[Airfoil Simulation](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/)
 
 <!--
 Exercise: how much lift can be generated at speed 0, 60, 80, 100, 120, 140, 160mph? Say at 60mph, it generates 2000lbs, and the airplane weigh 2000lbs. What does it mean when you fly with highest angle of attack at 40mph vs 160mph?

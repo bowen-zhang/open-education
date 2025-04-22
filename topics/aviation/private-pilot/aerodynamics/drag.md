@@ -50,7 +50,13 @@ Consequence:
 
 ---
 
-[![bg](https://img.youtube.com/vi/uXrnGiIMGLs/0.jpg)](https://www.youtube.com/watch?v=uXrnGiIMGLs)
+## Wake Turbulence
+
+<center>
+
+[![h:450](https://img.youtube.com/vi/uXrnGiIMGLs/0.jpg)](https://www.youtube.com/watch?v=uXrnGiIMGLs)
+
+</center>
 
 ---
 

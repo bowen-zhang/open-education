@@ -2,6 +2,7 @@
     "marp": {
       "inputDir": "./topics",
       "output": "./release",
-      "engine": "./utils/engine.js"
+      "engine": "./utils/engine.js",
+      "themeSet": "./themes"
     }
   }
