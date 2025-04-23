@@ -24,12 +24,20 @@ Coefficient of Drag ($C_D$):
 
 ---
 
+## Types of Drag
+
+- Induced drag
+- Parasite drag
+
+---
+
 ## Parasite Drag
 
-- Friction Drag
-- Form Drag
-- Interference Drag
+<br/>
 
+|Friction|Form Drag|Interference Drag|
+|--|--|--|
+|![](images/parasite-drag-friction.png)|![](images/form-drag.png)|![](images/interference-drag.png)|
 ---
 
 ## (Lift) Induced Drag
@@ -75,15 +83,9 @@ Consequence:
 |--|--|
 |![glider](images/glider.png)|![winglet](images/jet-winglet.jpg)|
 
----
-
-## Parasite Drag
-
-<br/>
-
-|Friction|Form Drag|Interference Drag|
-|--|--|--|
-|![](images/parasite-drag-friction.png)|![](images/form-drag.png)|![](images/interference-drag.png)|
+<!--
+Glider: high apsect ratio reduced wake turbulence, but too heavy and difficult to maneuver.
+-->
 ---
 
 ## Drag Curve

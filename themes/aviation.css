@@ -7,6 +7,16 @@ img[alt~="center"] {
   margin: 0 auto;
 }
 
+left {
+   float: left;
+   padding-right: 50px;
+}
+
+right {
+   padding-left: 50px;
+   float: right;
+}
+
 invert {
    color: white;
 }

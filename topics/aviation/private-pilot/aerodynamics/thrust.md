@@ -93,6 +93,11 @@ Consequence: left yaw tendency.
 ![](images/gyroscopic-action.png)
 
 <!--
+Demo: gyroscope
+  Spin a gyroscope and put the tip of axis on a pivot point.
+Demo: bicycle wheel
+  Hold handles mounted on a bicycle wheel, then spin it.
+
 - Consequence:
   - When pitching up, yaw to the right;
   - When pitching down, yaw to the left;

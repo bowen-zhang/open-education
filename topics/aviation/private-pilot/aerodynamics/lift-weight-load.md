@@ -2,6 +2,7 @@
 marp: true
 header: Aerodynamics
 footer: © 2024 Dream of Flight, Inc
+theme: aviation
 ---
 
 # Lift, Weight and Load
@@ -10,20 +11,26 @@ footer: © 2024 Dream of Flight, Inc
 
 ## Weight
 
+$$Load Factor = \frac{Lift}{Weight}$$
+
 ![bg fit right](images/gravity-force.png)
 
 ---
 
-## Lift == Weight
+## Load Factor $==$ 1
 
 Whenever there's no vertical **acceleration**:
 - Crusing
 - Climbing
 - Descending
 
+<!--
+Newton's 1st law: A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force.
+-->
+
 ---
 
-## Lift $\neq$ Weight
+## Load Factor $\neq$ 1
 
 |Turbulence|Turns/Rolls|
 |--|--|
@@ -54,29 +61,61 @@ Answer: higher speed, or higher AoA.
 
 ---
 
-## Load v.s. Stall Speed
+## Speed and Angle of Attack
+
+$$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$$
+
+<br/>
+<left>
+
+For an airplane with:
+  - weight of 2000lbs
+  - wings of a particular airfoil
+
+</left>
+
+<left>
+
+|Speed|Angle of Attack|
+|:--:|:--:|
+|100mph|1.8°|
+|80mph|6.1°|
+|70mph|10.0°|
+|65mph|14.5° (max)|
+
+<footnote>[Airfoil Simulation](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/)</footnote>
+
+</left>
+
+<!--
+Simulation parameters:
+  - Shape: Airfoil, flat bottom
+-->
+
+---
+
+## Load and Minimum Speed
 
 $$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$$
 
 <br/>
 <center>
 
-|Bank Angle|Lift|Max AoA|Lowest Speed|
+|Bank Angle|Load|Normal Speed @ AoA|Minimum Speed @ Max AoA|
 |:--:|:--:|:--:|:--:|
-|0°|1x|15°|60kts|
-|30°|1.2x|15°|66kts|
-|45°|1.4x|15°|71kts|
-|60°|2.0x|15°|85kts|
+|0°|1x|100mph @ 1.8°|65mph @ 14.5°|
+|30°|1.2x|100mph @ 3.3°|71mph @ 14.5°|
+|45°|1.4x|100mph @ 4.8°|77mph @ 14.5°|
+|60°|2.0x|100mph @ 9.7°|92mph @ 14.5°|
+
+<footnote>*AoA: angle of attack</footnote>
 
 </center>
 
 ---
 
-## Load Factor
+## Load Limit
 
-$$Load Factor = \frac{Lift}{Weight}$$
-
-<br/>
 <center>
 
 |Category|Min Limit|Max Limit|
@@ -84,6 +123,13 @@ $$Load Factor = \frac{Lift}{Weight}$$
 |Normal|-1.52G|3.8G|
 |Utility|-1.76G|4.4G|
 |Acrobatic|-3.0G|6.0G|
+
+<!--
+Categories:
+  - Normal: passenger airplanes
+  - Utility: training airplanes
+  - Acrobatic: acrobatic airplanes
+-->
 
 </center>
 
@@ -99,9 +145,7 @@ Exercise: how much lift can be generated at speed 0, 60, 80, 100, 120, 140, 160m
   - 160mph: overload
 -->
 
----
-
-![bg fit](images/v-g-diagram-1.png)
+![bg right fit](images/v-g-diagram-1.png)
 
 ---
 
