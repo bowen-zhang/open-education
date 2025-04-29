@@ -29,5 +29,5 @@ Instructor prep:
 -->
 ---
 
-1. (Primary Flight Controls)[primary-flight-controls.md]
-2. (Secondary Flight Controls)[secondary-flight-controls.md]
+1. [Primary Flight Controls](primary-flight-controls.md)
+2. [Secondary Flight Controls](secondary-flight-controls.md)
