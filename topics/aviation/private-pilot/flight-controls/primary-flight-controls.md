@@ -1,6 +1,6 @@
 ---
 marp: true
-header: Aerodynamics
+header: Flight Controls
 footer: © 2024 Dream of Flight, Inc
 theme: aviation
 ---
