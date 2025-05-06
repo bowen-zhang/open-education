@@ -66,3 +66,13 @@ Understand how each of all systems on aircraft work behind the scene
 ---
 
 ![bg 80%](images/ae300-right-photo.png)
+
+---
+
+## How Diesel Engine Works
+
+<center>
+
+[![h:400](https://img.youtube.com/vi/qeGQgPQsJJI/0.jpg)](https://www.youtube.com/watch?v=qeGQgPQsJJI)
+
+</center>
