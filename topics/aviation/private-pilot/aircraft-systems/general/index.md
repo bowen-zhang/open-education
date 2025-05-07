@@ -37,5 +37,5 @@ Instructor prep:
 1. [Fuel System](fuel-system.md)
 1. [Induction System](induction-system.md)
 1. [Ignition System](ignition-system.md)
-1. [Engine Cooling](engine-cooling.md)
+1. [Cooling System](cooling-system.md)
 1. [Electrical System](electrical-system.md)
