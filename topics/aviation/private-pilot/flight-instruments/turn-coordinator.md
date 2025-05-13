@@ -18,24 +18,24 @@ theme: aviation
 
 ---
 
-## Attitude Indicator
+## Turn Coordinator
 
-![h:400](images/attitude-indicator.png) ![h:400](images/g1000-attitude-indicator.png)
+![h:400](images/turn-coordinator.png) ![h:400](images/g1000-turn-coordinator.png)
 
 ---
+
+## Turn Coordinator
+
+Rate of Turn & Rate of Roll
+- Standard-rate turn: 360°in 2min (3°/sec)
+- No bank info
+
+---
+
+## Attitude Indicator
 
 <center>
 
-![h:550](images/attitude-indications.png)
+![h:500](images/turn-coordinator-illustration.png)
 
 </center>
-
----
-
-## Attitude Indicator
-
-Limitations
-- Pitch: ~±60°
-- Bank: ~±100°
-
-![bg right fit](images/attitude-indicator-illustration.png)
