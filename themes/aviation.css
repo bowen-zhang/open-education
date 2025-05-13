@@ -25,6 +25,10 @@ key {
    color: red 
 }
 
+non-key {
+   color: grey;
+}
+
 quote {
    color: grey;
 }
