@@ -6,3 +6,4 @@
 1. [Aerodynamics](aerodynamics/index.md)
 1. [Flight Controls](flight-controls/index.md)
 1. [Aircraft Systems](aircraft-systems/general/index.md)
+1. [Flight Instruments](flight-instruments/index.md)
