@@ -141,6 +141,12 @@ and when you start to lose visual references...
 
 ---
 
+## Compass
+
+[compass](compass.md)
+
+---
+
 <left>
 
 ## Gyroscope
@@ -160,6 +166,14 @@ tilting in response of deflective force
 
 ---
 
+## Gyroscope Instruments
+
+  1. [Attitude Indicator](attitude-indicator.md)
+  1. [Heading Indicator](heading-indicator.md)
+  1. [Turn Coordinator](turn-coordinator.md)
+
+---
+
 ## Gyroscope - Source of Power
 
 - Vacuum (5in Hg, engine driven)
@@ -171,11 +185,3 @@ tilting in response of deflective force
 ---
 
 ![](images/gyroscope-system.png)
-
----
-
-## Gyroscope Instruments
-
-  1. [Attitude Indicator](attitude-indicator.md)
-  1. [Heading Indicator](heading-indicator.md)
-  1. [Turn Coordinator](turn-coordinator.md)
