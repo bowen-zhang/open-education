@@ -7,3 +7,4 @@
 1. [Flight Controls](flight-controls/index.md)
 1. [Aircraft Systems](aircraft-systems/general/index.md)
 1. [Flight Instruments](flight-instruments/index.md)
+1. [Weather Theory](weather-theory/index.ms)
