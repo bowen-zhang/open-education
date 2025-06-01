@@ -13,34 +13,6 @@ How does it form?
 
 ---
 
-## Uneven Heating
-
-Primary source of all weather phenomenons.
-
-<br/><br/>
-
-- Angle: equator v.s. north/south pole
-- Obscuration: cloud, smoke
-- Surface type: water/forest v.s. land/desert
-
-<!--
-Everything starts as earth is:
-  - round
-  - tilted
-  - rotating
--->
-
-
-![bg fit](images/uneven-heat.png)
-
----
-
-## Warm Air Raises
-
-![h:300](images/warm-air-raises.jpg) [![h:300](https://img.youtube.com/vi/4cOMushj7w8/0.jpg)](https://youtu.be/4cOMushj7w8?feature=shared&t=119)
-
----
-
 ## Circulation
 
 <center>
