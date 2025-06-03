@@ -49,20 +49,23 @@ theme: aviation
 
 ## Takeoff Minimum - Climb Gradient
 
-Standard Takeoff Minimum: 200ft / nm
-- Check at top-of-climb altitude
-- Consider density altitude, turbulence, icing
-- Consider wind aloft
-
 <left>
 
+Standard Takeoff Minimum: 200ft / nm
+
 Non-standard minimum:
-=> cautious for obstructions
+
+![w:500](images/non-standard-takeoff-minimum.png)
 
 </left>
 <right>
 
-![w:600](images/non-standard-takeoff-minimum.png)
+Consider aircraft performance:
+- at top-of-climb altitude
+- with density altitude
+- with wind aloft
+- with turbulence
+- with icing
 
 </right>
 
@@ -110,6 +113,7 @@ RVR: measured by transmissometer near instrument runway, as pilot to see high in
 |--:|:--:|:--:|
 Visibility|1 sm (<=2 engines)</br>$1 \over 2$ sm (>2 engines)||
 |Ceiling|0||
+|Climb Gradient|200ft/nm||
 
 ![bg right:33%](images/737-hud-takeoff.png)
 
@@ -130,17 +134,83 @@ HUD: minimum 300ft RVR, cost $500k
 
 ---
 
-## Standard Takeoff Minimum
+## Takeoff Minimum
 
-||Part 121/135|Part 91|
-|--:|:--:|:--:|
-Visibility|1 sm (<=2 engines)</br>$1 \over 2$ sm (>2 engines)|0|
-|Ceiling|0|0|
+||Non-Standard<br/>(Part 121/135)|Non-Standard<br/>(Part 91)|Standard<br/>(Part 121/135)|Standard</br>(Part 91)|
+|--:|:--:|:--:|:--:|:--:|
+Visibility|As specified|-|1 sm (<=2 engines)</br>$1 \over 2$ sm (>2 engines)|-|
+|Ceiling|As specified|-|0|-|
+|Climb Gradient|As specified|-|200ft/nm|-|
+
+<footnote>
+Part 91 operation: not required to comply with published IFR takeoff minimums.
+</footnote>
 
 <!--
 Question: what is your personal takeoff minimum?
 Answer: One that allows return to land in case of emergency.
 -->
+
+---
+
+## IFR Destination
+
+Part 121/135
+- <quote><small>CFR Part 135.219: flight crews and dispatchers may only designate an airport as a destination if the latest weather reports or forecasts, or any combination of them, indicate that the weather conditions will be at or above IFR landing minimums at the estimated time of arrival (ETA).</small><quote>
+<red>DON'T takeoff if you cannot land.</red>
+- <quote><small>CFR Part 135.225: Pilots may not begin an instrument approach unless the latest weather report indicates that the weather conditions are at or above the authorized IFR landing minimums for that procedure.</small></quote>
+<red>DON'T start approach if you cannot land.</red>
+- <quote><small>...required to land within the touchdown zone</small></quote>
+<red>DON'T land if you cannot land normally.</red>
+
+---
+
+## IFR Destination
+
+Part 91
+
+---
+
+## IFR Alternate (Part 121/135)
+
+Have alternate takeoff airport, if weather at departure airport below landing minimum:
+- within 2h flying time (>2 engines)
+- within 1h flying time (<=2 engines)
+
+(1-2-3 rule) Have alternate landing airport when:
+- ETA ±1h @ destination
+- Ceiling < 2000ft
+- Visibility < 3sm
+
+Standard alternate minimums (Only apply to flight planning purpose):
+- Ceiling > minimum + 400ft
+- Visibility > minimum + 1sm
+
+---
+
+## IFR Alternate (Part 91)
+
+(1-2-3 rule) Have alternate landing airport when:
+- ETA ±1h @ destination
+- Ceiling < 2000ft
+- Visibility < 3sm
+ 
+Standard alternate minimums (Only apply to flight planning purpose):
+
+<left>
+
+Precision approach:
+- Ceiling > 600ft
+- Visibility > 2sm 
+
+</left>
+<right>
+
+Non-Precision approach:
+- Ceiling > 800ft
+- Visibility > 2sm
+
+</right>
 
 ---
 
