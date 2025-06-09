@@ -9,6 +9,19 @@ theme: aviation
 
 up to 7 days before the flight.
 
+![bg right](images/prog-chart2.png)
+
+<!--
+"Is there a chance to go?"
+-->
+---
+
+## Resources
+
+- General weather services
+- Aviation weather center
+    - Prognostic chart
+- Supplemental sites (windy.com)
 ---
 
 ## General Weather Service
@@ -17,7 +30,7 @@ up to 7 days before the flight.
 
 ---
 
-## [Aviation Weather Center](https://www.aviationweather.gov) (OFFICIAL)
+## [Aviation Weather Center](https://www.aviationweather.gov)
 
 ![center h:500](images/aviation-weather-center.png)
 
@@ -41,6 +54,6 @@ Surface analysis, up to 7 days.
 
 ---
 
-## [Windy](https://www.windy.com) (SUPPLIMENTAL)
+## [Windy](https://www.windy.com)
 
 ![center h:500](images/windy.png)

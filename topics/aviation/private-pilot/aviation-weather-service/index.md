@@ -67,15 +67,20 @@ Multiple layers.
 
 ||Instrument Meteorological Conditions</br>(IMC)|Visual Meteorological Conditions<br/>(VMC)|
 |--:|:--:|:--:|
-|Ceiling|<1000ft|1000ft~3000ft (marginal)<br/>>3000ft|
-|Visibility|<3sm|3-5sm (marginal)<br/>>5sm|
+|Ceiling|<1000ft|>1000ft|
+|Visibility|<3sm|>3sm|
 |Rule|Instrument Flight Rule (IFR)|Visual Flight Rule (VFR)|
+
+<br/>
+
+- LIFR: <500ft and/or <1sm
+- MVFR: 1000-3000ft and/or 3-5sm
 
 ---
 
 ## Assessment Flow
 
-1. [-7d] [Big Picture](big-picture.md)
-1. [-1d] [Detailed Forecast](detailed-forecast.md)
-1. [-0d] [Current Observation](current-observation.md)
+1. [T-7d] [Big Picture](big-picture.md)
+1. [T-1d] [Detailed Forecast](detailed-forecast.md)
+1. [T-0d] [Current Observation](current-observation.md)
 1. [inflight] [Updated Observation](updated-observation.md)
