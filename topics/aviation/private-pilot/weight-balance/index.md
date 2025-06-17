@@ -17,5 +17,21 @@ Be conscious at loading the airplane, every time.
 
 ---
 
-1. [Weight](weight.md)
-1. [Balance](balance.md)
+## Prep
+
+- Read "Pilot's Handbook of Aeronautical Knowledge":
+  - [Chapter 10: Weight and Balance][1]
+
+[1]: https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/phak/chapter-10-weight-and-balance
+
+<!--
+Instructor prep:
+  - aircraft flight manual
+  - weight balance sheet
+  - medicine scale
+-->
+
+---
+
+- [Weight](weight.md)
+- [Balance](balance.md)

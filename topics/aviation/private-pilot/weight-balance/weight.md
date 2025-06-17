@@ -62,7 +62,7 @@ $Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
 
 <left>
 
-|||
+|Item|Weight|
 |--|--:|
 |**Empty Weight**|2023lbs|
 |**Pilot**|150lbs|
@@ -71,16 +71,14 @@ $Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
 |**Passenger 3 + Baggage**|180lbs + 20lbs|
 |**Fuel** - 39gal|265lbs|
 |||
-|**Total**|?|
+|**Take-off Weight**|?|
 |**Max Take-off Weight**|2888lbs|
 
 </left>
 <right>
 
-|||
-|--|--:|
-|**100LL**|6lbs/gal|
-|**Jet-A**|6.8lbs/gal|
+- 100LL: 6lbs/gal
+- Jet-A: 6.8lbs/gal
 
 </right>
 
@@ -88,6 +86,39 @@ $Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
 Total: 2988lbs
 
 Question: can you takeoff?
+-->
+
+---
+
+## Weight Calculation
+
+<left>
+
+|Item|Weight|
+|--|--:|
+|**Empty Weight**|2023lbs|
+|**Pilot**|150lbs|
+|**Passenger 1 + Baggage**|150lbs|
+|**Passenger 2 + Baggage**|180lbs <del>+ 20lbs</del>|
+|**Passenger 3 + Baggage**|180lbs <del>+ 20lbs</del>|
+|**Fuel** - <del>39gal</del> 30gal|<del>265lbs</del> 204lbs|
+|||
+|**Take-off Weight**|2887lbs|
+|**Max Take-off Weight**|2888lbs|
+
+</left>
+<right>
+
+- 100LL: 6lbs/gal
+- Jet-A: 6.8lbs/gal
+
+</right>
+
+<!--
+Total: 2988lbs
+
+Question: can you takeoff?
+Question: what can you expect at max-weight?
 -->
 
 ---
@@ -105,5 +136,6 @@ Question: can you takeoff?
 
 ## Takeaway
 
+- Always calculate weight
 - Never exceed max takeoff weight
 - Anticipate aircraft performance changes
