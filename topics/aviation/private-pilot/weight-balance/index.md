@@ -13,7 +13,7 @@ theme: aviation
 
 ## Objectives
 
-Be conscious at loading the airplane, every time.
+Understand and always anticipate the impact of weight and balance to airplane's flying characterstics.
 
 ---
 

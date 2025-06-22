@@ -32,16 +32,16 @@ $$ 100lbs \times 1ft + 50lbs \times 4ft = 150lbs \times 2ft$$
 
 ## CG Calculation
 
-|Item|Weight|
-|--|--:|
-|**Empty Weight**|2023lbs|
-|**Pilot**|150lbs|
-|**Passenger 1**|150lbs|
-|**Passenger 2**|180lbs|
-|**Passenger 3**|180lbs|
-|**Fuel** - 30gal|204lbs|
-|||
-|**Take-off Weight**|2887lbs|
+|Item|Weight|Moment|
+|--|--:|--:|
+|**Empty Weight**|2023lbs|?|
+|**Pilot**|150lbs|?|
+|**Passenger 1**|150lbs|?|
+|**Passenger 2**|180lbs|?|
+|**Passenger 3**|180lbs|?|
+|**Fuel** - 30gal|204lbs|?|
+||||
+|**Take-off Weight**|2887lbs|?|
 
 </left>
 <right>
