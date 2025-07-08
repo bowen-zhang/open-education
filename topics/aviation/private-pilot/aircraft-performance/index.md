@@ -30,6 +30,7 @@ Understand and always anticipate the impact of the environment to airplane's per
 Instructor prep:
   - Aircraft flight manual
   - E6B
+  - https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/e6b/
 -->
 
 ---

@@ -1,6 +1,17 @@
+---
+marp: true
+header: Flight Instruments
+footer: © 2024 Dream of Flight, Inc
+theme: aviation
+---
+
 # Private Pilot Course
 
+---
+
 ## Ground Lessons
+
+<col-2>
 
 1. [Principle of Flight](principle-of-flight/index.md)
 1. [Aerodynamics](aerodynamics/index.md)
@@ -10,4 +21,12 @@
 1. [Weather Theory](weather-theory/index.md)
 1. [Aviation Weather Service](aviation-weather-service/index.md)
 1. [Weight Balance](weight-balance/index.md)
-1. [Aircraft Performance](aircraft-performance/index.md)
+
+</col-2>
+<col-2>
+
+9. [Aircraft Performance](aircraft-performance/index.md)
+1. [Airspace](airspace/index.md)
+1. [Airport Operations](airport-operations/index.md)
+
+</col-2>

@@ -17,6 +17,12 @@ right {
    float: right;
 }
 
+col-2 {
+   float: left;
+   padding-right: 50px;
+   width: 45%;
+}
+
 right-section {
    padding-left: 50px;
    float: right;
@@ -33,6 +39,7 @@ key {
 
 non-key {
    color: rgb(158, 158, 158);
+   font-size: 80%;
 }
 
 quote {
@@ -57,6 +64,12 @@ footnote {
 
 img[alt~="right"] {
    float: right;
+}
+
+img[alt~="right-bottom"] {
+   position: absolute;
+   right: 10px;
+   bottom: 20px;
 }
 
 img[alt~="video"] {
