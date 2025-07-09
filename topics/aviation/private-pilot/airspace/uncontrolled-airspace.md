@@ -1,6 +1,6 @@
 ---
 marp: true
-header: Flight Instruments
+header: Airspace
 footer: © 2024 Dream of Flight, Inc
 theme: aviation
 ---
@@ -27,8 +27,8 @@ theme: aviation
 
 **VFR Weather Minimum (Day)** 
 
-- Visibility: > 1sm
-- Cloud: Clear of cloud
+- Visibility: > 3sm
+- Cloud: 500 / 1000 / 2000
 
 --------- 1,200 AGL ----------
 

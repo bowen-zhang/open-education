@@ -1,6 +1,6 @@
 ---
 marp: true
-header: Flight Instruments
+header: Airspace
 footer: © 2024 Dream of Flight, Inc
 theme: aviation
 ---
@@ -11,11 +11,11 @@ theme: aviation
 
 ## Prohibited Area
 
-Purpose: for national security
-
-## <red>NEVER FLY INTO</red>
+For national security
 
 ![w:500](images/capital.png)
+
+### <red>NEVER FLY INTO</red>
 
 ![bg right](images/prohibited-area-on-chart.png)
 
@@ -23,37 +23,47 @@ Purpose: for national security
 
 ## Restricted Area
 
-Purpose: protect aircraft from invisible hazards (artillery firing, missile)
+Protect aircraft from invisible hazards (artillery firing, missile)
 
-## <red>NEVER FLY INTO WHEN ACTIVE</red>
+### <red>NEVER FLY INTO WHEN ACTIVE</red>
+
+![bg right](images/restricted-area.png)
+
+<br/><br/>
+
+![](images/restricted-area-details.png)
+
+<!--
+Area 51: https://skyvector.com/?ll=37.08645588965002,-115.69676616205291&chart=17&zoom=3&fpl=undefined
+-->
 
 ---
 
 ## National Security Area (NSA)
 
 Compromise between normal airspace and restricted/prohibited area.
+
 can be temporarily converted into restricted airspace.
 
 ### <red>BETTER NOT FLY INTO</red>
 
-![center h:300](images/national-security-area-on-chart.png)
+![bg right:49%](images/national-security-area-on-chart.png)
 
 ---
 
-
 ## Military Operation Area (MOA)
 
-Purpose: separate military training from IFR traffic
+Separate military training from IFR traffic
 
 ### <red>CAUTION WHEN ACTIVE</red>
 
-![bg right:55%](images/moa-on-chart.png)
+![bg right:47%](images/moa-on-chart.png)
 
 ---
 
 ## Alert Area
 
-Purpose: For intensive activities
+For intensive activities
 - flight training
 - glider towing
 - parachute jumping
@@ -69,13 +79,15 @@ Purpose: For intensive activities
 - 12nm outward from coast
 - Participate
 
-![center h:400](images/warning-area-on-chart.png)
+<br/><br/><br/><br/><br/><br/>
+
+![right-bottom h:400](images/warning-area-on-chart.png)
 
 ---
 
 ## Wildlife Refuge
 
-Purpose: to protect wildlife habitants.
+To protect wildlife habitants.
 
 ### <red>NO FLIGHT BELOW 1000/2000 AGL</red>
 
