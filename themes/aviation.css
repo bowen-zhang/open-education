@@ -80,6 +80,10 @@ img[alt~="video"] {
    height: 100%;
 }
 
+white {
+   color: #eeeeee;
+}
+
 red {
    color: red;
 }

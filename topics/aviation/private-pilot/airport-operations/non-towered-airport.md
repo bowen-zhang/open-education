@@ -9,15 +9,14 @@ theme: aviation
 
 ---
 
+![bg](images/6s9-airport-view.png)
+
+---
+
 ![bg](images/home-town.png)
 
 <!--
 Question: how would you build an airport in your backyard?
-- Runway
-- Wind
-- Traffic pattern
-- Noise abatement
-- Communication
 -->
 --- 
 
@@ -25,7 +24,6 @@ Question: how would you build an airport in your backyard?
 - Runway
 - Wind
 - Traffic pattern
-- Noise abatement
 - Communication
 -->
 
@@ -35,7 +33,7 @@ Question: how would you build an airport in your backyard?
 
 ## Runway
 
-(Direction)
+![bg fit](images/runway-direction.png)
 
 ---
 
@@ -68,12 +66,6 @@ Standard pattern: left turn
 -->
 ---
 
-## VFR Procedure / Noise Abatement
-
-(BFI brochure)
-
----
-
 ## Communication - Common Traffic Advisory Frequency (CTAF)
 
 |Audience|Who you are|Where you are|What is your intention|
@@ -91,18 +83,56 @@ Standard pattern: left turn
 
 ---
 
+![bg](images/non-towered-airports-on-chart.png)
+
+<!--
+- Diamond Point Airstrip: residential community airpark, elevation, runway length
+- W28: code, lighting, CTAF, non-standard traffic pattern
+- 0S9: weather station, AOE
+-->
+
+---
+
+![bg](images/kors-airport-view.jpg)
+
+---
+
 ## Airport Beacon
 
-- Civilian Land Airport
-- Water Airport
-- Heliport
-- Military Airport
+|||
+|--|--|
+|Civilian Land Airport|<white>●</white><green>●</green>|
+|Water Airport|<white>●</white><yellow>●</yellow>|
+|Heliport|<white>●</white><yellow>●</yellow><green>●</green>|
+|Military Airport|<white>●</white><white>●</white><green>●</green>|
 
 ON when:
 - < VFR weather minimum
 - From sunset to sunrise
 
 ![bg right](images/airport-beacon.png)
+
+---
+
+## Taxiway Lights
+
+<left>
+
+- Taxiway
+  - Centerline (green)
+  - Edge (blue)
+- Runway
+  - Centerline (white)
+  - Edge (white)
+  - Threshold (green)
+- Runway End Identifier Light
+(REIL)
+
+</left>
+<right>
+
+![w:620](images/taxiway-light.png)
+![w:620](images/runway-light.png)
 
 ---
 
@@ -116,12 +146,16 @@ ON when:
 
 ---
 
-## Airport Information - On Chart
-
-(chart)
+## Chart Supplement
+![w:280](images/chart-supplement.png)
+![bg right:63% fit](images/0s9-chart-supplement.png)
 
 ---
 
-## Airport Information - In Supplyment
+## VFR Procedure / Noise Abatement
 
-(Supplyment)
+![center h:500](images/vfr-procedure.png)
+
+<!--
+https://cdn.kingcounty.gov/-/media/king-county/depts/executive-services/airport/pilot-information/bfi-vfr-routes-final-20210515.pdf
+-->

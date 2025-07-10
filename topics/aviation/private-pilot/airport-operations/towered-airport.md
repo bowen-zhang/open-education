@@ -31,13 +31,13 @@ theme: aviation
 
 <left>
 
-(hold-short-line)
-![w:320](images/taxiway-to-runway.png)
+![w:400](images/hold-short-line.png)
+![w:400](images/taxiway-to-runway.png)
 
 </left>
 <right>
 
-![w:700](images/taxiway.png)
+![w:620](images/taxiway.png)
 
 </right>
 
@@ -68,11 +68,14 @@ theme: aviation
 
 ## Weather Observation
 
-- ATIS
-- AWOS
-- ASOS
+- ATIS (Automatic Terminal Information Service)
+generated hourly by human recording
+- AWOS (Automated Weather Observation Sytem)
+latested
+- ASOS (Automated Surface Observing System)
+(by NOAA)
 
-(picture)
+![bg right:33%](images/weather-station.jpeg)
 
 ---
 
@@ -113,18 +116,6 @@ theme: aviation
 
 ---
 
-## Lighting
-
-- Runway
-  - Centerline
-  - Edge
-- Taxiway
-  - Centerline
-  - Edge
-- Runway End Identifier Light (REIL)
-
----
-
 ## Instrument Approach Lights
 
 ![](images/approach-light-2.png)
@@ -140,7 +131,7 @@ theme: aviation
 
 ---
 
-(video)
+[![video](https://img.youtube.com/vi/TB-DZ_7PXs4/0.jpg)](https://youtu.be/TB-DZ_7PXs4?t=77)
 
 <!--
 KBFI: 2x. Runway edge lights, PAPI (precision approach path indicator), approach lights, rotating beacon, taxiway lights
@@ -148,9 +139,7 @@ KBFI: 2x. Runway edge lights, PAPI (precision approach path indicator), approach
 
 ---
 
-## Airport Information - On Chart
-
-<left>
+## Airport Information
 
 - Runway illustrations
 - Name
@@ -162,24 +151,22 @@ KBFI: 2x. Runway edge lights, PAPI (precision approach path indicator), approach
 - Runway length
 - Unicom
 
-</left>
-<right>
-
-![w:700](images/koak-on-chart.png)
-
-</right>
+![bg right:60%](images/towered-airport-on-chart.png)
 
 <!--
 Towered-airport: blue
 -->
 ---
 
-## Airport Information - In Supplyment
+## Chart Supplement
 
-(Supplyment)
+![w:500](images/ksea-chart-supplement-1.png) ![w:500](images/ksea-chart-supplement-2.png)
 
 ---
 
 ## Notice to Airmen (NOTAMs)
 
-(examples)
+- Distant (D) NOTAMs: airport, navigation, services
+- Flight Data Center (FDC) NOTAMs: IFR procedures, TFRs
+
+![](images/notams.png)

@@ -7,9 +7,11 @@ theme: aviation
 
 # Wake Turbulence
 
+![bg right](images/wake-turbulence.jpg)
+
 ---
 
-(video)
+[![video](https://img.youtube.com/vi/SVE-pVOQb48/0.jpg)](https://youtu.be/SVE-pVOQb48?t=280)
 
 ---
 
@@ -27,7 +29,7 @@ By-product of Lift
 
 ## Vortex
 
-Correlate to:
+Correlate to lift:
 - Weight
 - Angle of Attack
 
@@ -45,18 +47,9 @@ Correlate to:
 - Wingtip Vortex: more stable, last up to 3min
 - Jetwash: extreme turbulent, short duration
 
-(video)
+<br/><br/><br/><br/><br/>
 
----
-
-(simulation video)
-
----
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-Nov 8th 2008, a Learjet 45 crashed at Mexico City during final approach to land.
-
-![bg fit](images/learjet-45.png)
+[![right-bottom](https://img.youtube.com/vi/uXrnGiIMGLs/0.jpg)](https://www.youtube.com/watch?v=uXrnGiIMGLs)
 
 ---
 
@@ -81,7 +74,7 @@ Avoidance in the air:
 
 Only when lift is generated.
 
-![h:300](images/wake-turbulence-during-takeoff.png)
+![center](images/wake-turbulence-near-runway.png)
 
 ---
 
@@ -93,10 +86,6 @@ Only when lift is generated.
 ![](images/takeoff-with-wake-turbulence.png)
 
 <!--
-Climb gradient:
-- Jet: 800-1000ft/nm
-- DA40NG: 500ft/nm
-
 Complications:
 - Wind
 - Parallel runway
@@ -110,3 +99,7 @@ Complications:
 - Landing: touch down after jet's touch down point
 
 ![](images/landing-with-wake-turbulence.png)
+
+---
+
+[![video](https://img.youtube.com/vi/tZLXMKMgnS8/0.jpg)](https://www.youtube.com/watch?v=tZLXMKMgnS8)
