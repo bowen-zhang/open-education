@@ -28,5 +28,6 @@ theme: aviation
 9. [Aircraft Performance](aircraft-performance/index.md)
 1. [Airspace](airspace/index.md)
 1. [Airport Operations](airport-operations/index.md)
+1. [Navigation](navigation/index.md)
 
 </col-2>
