@@ -51,6 +51,18 @@ non-key {
 
 quote {
    color: grey;
+   font-style: italic;
+}
+
+quote:before {
+   display: block;
+   font-size: 300%;
+   content: open-quote;
+   font-family: Arial, Helvetica, sans-serif;
+   height: 1px;
+   margin-left: -0.55em;
+   position:relative;
+   top:-20px;
 }
 
 small {
@@ -76,6 +88,18 @@ img[alt~="right"] {
 img[alt~="right-bottom"] {
    position: absolute;
    right: 10px;
+   bottom: 20px;
+}
+
+img[alt~="right-top"] {
+   position: absolute;
+   right: 10px;
+   top: 20px;
+}
+
+img[alt~="left-bottom"] {
+   position: absolute;
+   left: 10px;
    bottom: 20px;
 }
 

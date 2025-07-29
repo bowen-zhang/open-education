@@ -29,5 +29,6 @@ theme: aviation
 1. [Airspace](airspace/index.md)
 1. [Airport Operations](airport-operations/index.md)
 1. [Navigation](navigation/index.md)
+1. [Human Factors](human-factors/index.md)
 
 </col-2>
