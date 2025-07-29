@@ -30,5 +30,7 @@ theme: aviation
 1. [Airport Operations](airport-operations/index.md)
 1. [Navigation](navigation/index.md)
 1. [Human Factors](human-factors/index.md)
+1. [Aeronautical Decision Making](aeronautical-decision-making/index.md)
+1. [Regulations](regulations/index.md)
 
 </col-2>
