@@ -103,6 +103,14 @@ green {
    color: green;
 }
 
+disabled {
+   color: lightgray;
+}
+
+highlighted {
+   background-color: yellow;
+}
+
 simulation {
    position: absolute;
    top: 0px;

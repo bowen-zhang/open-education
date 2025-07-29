@@ -65,8 +65,13 @@ for traffic & weather advisory
 
 ---
 
-## Flight Service Station (FSS)
-
----
-
 ## VFR Flight Plan
+
+- File before flight
+<non-key>via 800-WxBrief / ForeFlight</non-key>
+- Activate after takeoff
+<non-key>with Flight Service Station (FSS)</non-key>
+- Close after landing
+<non-key>via 800-WxBrief / ForeFlight</non-key>
+
+![bg right:55% fit](images/vfr-flight-plan.png)

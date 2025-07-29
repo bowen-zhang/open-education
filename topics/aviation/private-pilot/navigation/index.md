@@ -25,7 +25,7 @@ Master all the different ways to navigate so you never get lost.
 <!--
 Instructor prep:
   - Map
-  - E6B
+  - E6B (https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/e6b/)
   - Plotter
 -->
 
@@ -69,6 +69,6 @@ Instructor prep:
 
 - [GPS](gps.md)
 - [Pilotage](pilotage.md)
-- [Radio Navigation](radio_navigation.md)
+- [Radio Navigation](radio-navigation.md)
 - [Radar Vector](radar-vector.md)
-- [Dead Reckoning](dead_reckoning.md)
+- [Dead Reckoning](dead-reckoning.md)
