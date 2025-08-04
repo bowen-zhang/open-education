@@ -13,6 +13,7 @@ theme: aviation
 
 <col-2>
 
+0. [Prep](prep/index.md)
 1. [Principle of Flight](principle-of-flight/index.md)
 1. [Aerodynamics](aerodynamics/index.md)
 1. [Flight Controls](flight-controls/index.md)
@@ -20,12 +21,12 @@ theme: aviation
 1. [Flight Instruments](flight-instruments/index.md)
 1. [Weather Theory](weather-theory/index.md)
 1. [Aviation Weather Service](aviation-weather-service/index.md)
-1. [Weight Balance](weight-balance/index.md)
 
 </col-2>
 <col-2>
 
-9. [Aircraft Performance](aircraft-performance/index.md)
+8. [Weight Balance](weight-balance/index.md)
+1. [Aircraft Performance](aircraft-performance/index.md)
 1. [Airspace](airspace/index.md)
 1. [Airport Operations](airport-operations/index.md)
 1. [Navigation](navigation/index.md)
