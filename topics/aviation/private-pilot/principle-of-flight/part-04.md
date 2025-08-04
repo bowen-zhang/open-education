@@ -2,6 +2,7 @@
 marp: true
 header: Principle of Flight
 footer: © 2024 Dream of Flight, Inc
+theme: aviation
 ---
 
 # Stall
@@ -34,7 +35,7 @@ Explanation: this is why paper airplane starts to drop.
 
 ## Air Separation Demo
 
-[![](https://img.youtube.com/vi/iEM0I395cpA/0.jpg)](https://youtu.be/iEM0I395cpA?feature=shared&t=73)
+[![center h:500](https://img.youtube.com/vi/iEM0I395cpA/0.jpg)](https://youtu.be/iEM0I395cpA?feature=shared&t=73)
 
 ---
 
@@ -52,6 +53,8 @@ How to recover?
 
 ---
 
-## Asiana 214 @ SFO
+[![video](https://img.youtube.com/vi/lWkFYT8EGUs/0.jpg)](https://www.youtube.com/watch?v=lWkFYT8EGUs)
 
-[![](https://img.youtube.com/vi/lWkFYT8EGUs/0.jpg)](https://www.youtube.com/watch?v=lWkFYT8EGUs)
+<!--
+Asiana 214 @ SFO
+-->
