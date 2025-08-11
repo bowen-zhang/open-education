@@ -2,6 +2,7 @@
 marp: true
 header: Aerodynamics
 footer: © 2024 Dream of Flight, Inc
+theme: aviation
 ---
 
 # Drag
@@ -22,6 +23,8 @@ Coefficient of Drag ($C_D$):
 - Airfoil
 - Angle of Attack
 
+<timer>00:01</timer>
+
 ---
 
 ## Types of Drag
@@ -38,11 +41,16 @@ Coefficient of Drag ($C_D$):
 |Friction|Form Drag|Interference Drag|
 |--|--|--|
 |![](images/parasite-drag-friction.png)|![](images/form-drag.png)|![](images/interference-drag.png)|
+
+<timer>00:03</timer>
+
 ---
 
 ## (Lift) Induced Drag
 
 ![bg right](images/induced-drag.png)
+
+<timer>00:05</timer>
 
 <!--
 Like a boat sailing on water.
@@ -54,28 +62,9 @@ Consequence:
   - air flows inboard above the wing
   - air twist at trailing edge to form vortices
   - strongest vortices at wingtip
+  - downwash
+  - tilted lift
 -->
-
----
-
-## Wake Turbulence
-
-<center>
-
-[![h:450](https://img.youtube.com/vi/uXrnGiIMGLs/0.jpg)](https://www.youtube.com/watch?v=uXrnGiIMGLs)
-
-</center>
-
----
-
-## Wake Turbulence
-
-- Do NOT fly through... 
-- Do NOT fly within 1000ft below...
-
-...another aircraft's flight path.
-
-![](images/wake-turbulence-in-flight.png)
 
 ---
 
@@ -86,6 +75,7 @@ Consequence:
 <!--
 Glider: high apsect ratio reduced wake turbulence, but too heavy and difficult to maneuver.
 -->
+
 ---
 
 ## Drag Curve
@@ -95,6 +85,8 @@ Glider: high apsect ratio reduced wake turbulence, but too heavy and difficult t
 ![h:500](images/drag-curve.png)
 
 </center>
+
+<timer>00:07</timer>
 
 ---
 

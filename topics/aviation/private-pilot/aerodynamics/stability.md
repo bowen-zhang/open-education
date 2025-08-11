@@ -15,6 +15,8 @@ footer: © 2024 Dream of Flight, Inc
 
 ![](images/axes-of-airplane.png)
 
+<timer>00:01</timer>
+
 ---
 
 ## Stability
@@ -28,6 +30,8 @@ footer: © 2024 Dream of Flight, Inc
   - Neutral
   - Negative
 
+<timer>00:03</timer>
+
 <!--
 Static stability: the initial tendency to
 return to equilibrium that the aircraft displays after being
@@ -38,13 +42,9 @@ Dynamic stability: response over time when disturbed.
 
 ---
 
-## Instability: Example
+[![video](videos/negative-dynamic-stability.png)](https://drive.google.com/file/d/1WyvhmFtJpCqTuAcXeOlYbyXcraVMPRIn/view?usp=drive_link)
 
-<center>
-
-[![h:450](https://img.youtube.com/vi/JuHsgAX3TBY/0.jpg)](https://www.youtube.com/watch?v=JuHsgAX3TBY)
-
-</center>
+<timer>00:04</timer>
 
 ---
 
@@ -55,6 +55,8 @@ Dynamic stability: response over time when disturbed.
 ![h:450](images/longitudinal-stability.png)
 
 </center>
+
+<timer>00:06</timer>
 
 ---
 
@@ -67,6 +69,8 @@ Dynamic stability: response over time when disturbed.
 ![bg right vertical](images/incidence-angle-through-wing.png)
 ![bg](images/positive-dihedral.png)
 ![bg](images/negative-dihedral.png)
+
+<timer>00:08</timer>
 
 <!--
 Angle of incidence:
@@ -90,6 +94,8 @@ Keel Effect:
 ![](images/wind-vane.jpeg)
 
 ![bg right fit](images/yaw-stability.png)
+
+<timer>00:09</timer>
 
 ---
 

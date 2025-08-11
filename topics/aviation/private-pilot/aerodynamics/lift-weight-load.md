@@ -24,6 +24,8 @@ Whenever there's no vertical **acceleration**:
 - Climbing
 - Descending
 
+<timer>00:01</timer>
+
 <!--
 Newton's 1st law: A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force.
 -->
@@ -34,7 +36,9 @@ Newton's 1st law: A body remains at rest, or in motion at a constant speed in a 
 
 |Turbulence|Turns/Rolls|
 |--|--|
-|[![turbulence](https://img.youtube.com/vi/Jc0HemKdqAc/0.jpg)](https://www.youtube.com/watch?v=Jc0HemKdqAc)|[![high speed turn by fighter jet](https://img.youtube.com/vi/_w614FRf4g8/0.jpg)](https://youtu.be/_w614FRf4g8?si=fDTuaZ6H3KdfzfgM&t=685)|
+|[![h:300](videos/load-factor-during-turbulence.png)](https://drive.google.com/file/d/1AFY1WkYZYIzjZjYt7ZyF3W6gqbqhUjFv/view?usp=drive_link)|[![h:300](https://img.youtube.com/vi/_w614FRf4g8/0.jpg)](https://youtu.be/_w614FRf4g8?si=fDTuaZ6H3KdfzfgM&t=685)|
+
+<timer>00:04</timer>
 
 <!--
 Question: does lift always equal to weight? When would it not?
@@ -52,6 +56,8 @@ Answers:
 ## Load During Turns
 
 ![](images/load-during-turn.png)
+
+<timer>00:05</timer>
 
 <!--
 Question: how is increased lift generated?
@@ -87,7 +93,10 @@ For an airplane with:
 
 </left>
 
+<timer>00:06</timer>
+
 <!--
+https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/
 Simulation parameters:
   - Shape: Airfoil, flat bottom
 -->
@@ -112,6 +121,8 @@ $$Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$$
 
 </center>
 
+<timer>00:07</timer>
+
 ---
 
 ## Load Limit
@@ -133,11 +144,15 @@ Categories:
 
 </center>
 
+<timer>00:08</timer>
+
 ---
 
 ## Vg Diagram
 
 [Airfoil Simulation](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/)
+
+<timer>00:09</timer>
 
 <!--
 Exercise: how much lift can be generated at speed 0, 60, 80, 100, 120, 140, 160mph? Say at 60mph, it generates 2000lbs, and the airplane weigh 2000lbs. What does it mean when you fly with highest angle of attack at 40mph vs 160mph?
@@ -151,17 +166,25 @@ Exercise: how much lift can be generated at speed 0, 60, 80, 100, 120, 140, 160m
 
 ![bg fit](images/v-g-diagram-2.png)
 
+<timer>00:10</timer>
+
 ---
 
 ![bg fit](images/v-g-diagram-3.png)
+
+<timer>00:11</timer>
 
 ---
 
 ![bg fit](images/v-g-diagram-4.png)
 
+<timer>00:12</timer>
+
 ---
 
 ![bg fit](images/v-g-diagram-5.png)
+
+<timer>00:13</timer>
 
 <!--
 
