@@ -287,6 +287,7 @@ DA40NG: https://drs.faa.gov/browse/excelExternalWindow/C67CC63755875EAE862587130
 <reference>
 
 [14 CFR Part 91.207][1]
+
 [1]: https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.207
 
 </reference>
@@ -314,6 +315,7 @@ From local Flight Standards District Offices (FSDO)
 <reference>
 
 [14 CFR Part 21.197][1]
+
 [1]: https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-21/subpart-H/section-21.197
 
 </reference>
