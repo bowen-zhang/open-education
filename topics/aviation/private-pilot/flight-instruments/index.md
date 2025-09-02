@@ -33,6 +33,8 @@ Interpret essential instruments and recognize their limitations, failure modes.
 <!--
 Instructor prep:
   - gyro
+  - attitude indicator sim: https://flightapps.erau.edu/interactive/3Dinstruments/attitude.html
+  - heading indicator sim: https://flightapps.erau.edu/interactive/3Dinstruments/heading.html
 -->
 
 ---
@@ -101,43 +103,7 @@ and when you start to lose visual references...
   1. [Altimeter](altimeter.md)
   1. [Vertical Speed Indicator](vertical-speed-indicator.md)
   1. [Airspeed Indicator](airspeed-indicator.md)
-
-
----
-
-<left>
-
-## Pitot-Static System
-
-- Pitot tube
-- Static port
-- Alternate Static Source
-- Heating
-
-</left>
-<right>
-
-![w:400](images/pitot-tube.png)
-![w:400](images/static-port.png)
-
-</right>
-
----
-
-<center>
-
-![h:550](images/pitot-static-system.png)
-
-</center>
-
----
-
-## Pitot-Static Blockage
-
-- Pitot
-- Static
-- Pitot & drain hole
-- Pitot & drain hole & static
+  1. [Pitot-Static System](pitot-static-system.md)
 
 ---
 
@@ -147,22 +113,24 @@ and when you start to lose visual references...
 
 ---
 
-<left>
-
 ## Gyroscope
 
-- Rigidity
+<col-2>
+
+**Rigidity**
 remains in fixed position
-- Precession
+
+![h:350](images/gyroscope-rigidity.png)
+
+</col-2>
+<col-2>
+
+**Precession**
 tilting in response of deflective force
 
-</left>
-<right>
+![h:350](images/gyroscope-precession.png)
 
-![w:300](images/gyroscope-rigidity.png)
-![w:300](images/gyroscope-precession.png)
-
-</right>
+</col-2>
 
 ---
 

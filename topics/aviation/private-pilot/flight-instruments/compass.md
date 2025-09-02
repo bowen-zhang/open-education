@@ -9,19 +9,22 @@ theme: aviation
 
 indication of direction
 
-![bg right fit](images/compass.png)
+---
+
+## Magnetic Compass
+
+![h:500](images/vertical-card-compass.jpg) ![h:500](images/compass.png)
 
 ---
 
 ## Why is it important?
 
+- Show direction
+- Highly reliable
+
 <!--
 High reliability: doesn't depend on anything else to work
 -->
-
----
-
-![h:500](images/vertical-card-compass.jpg) ![h:500](images/compass.png)
 
 ---
 
@@ -69,5 +72,3 @@ Acceleration error (ANDS)
 - when Decelerate: South turn
 
 ![bg right fit](images/compass-acceleration-error.png)
-
----

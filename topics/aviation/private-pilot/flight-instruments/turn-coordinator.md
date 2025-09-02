@@ -7,11 +7,26 @@ theme: aviation
 
 # Turn Coordinator
 
-![bg right fit](images/turn-coordinator.png)
+---
+
+## Turn Coordinator
+
+![h:400](images/turn-coordinator.png) ![h:400](images/g1000-turn-coordinator.png)
+
+<timer>00:01</timer>
 
 ---
 
 ## Why is it important?
+
+It provides:
+- Rate of turn
+- Coordination indication
+
+Standard-rate turn: 360° in 2min (3°/sec)
+
+No bank info
+
 
 <!--
 - Coordinated turn
@@ -19,31 +34,7 @@ theme: aviation
 - When heading indicator fails: turn by stopwatch
 -->
 
----
-
-## Turn Coordinator
-
-![h:400](images/turn-coordinator.png) ![h:400](images/g1000-turn-coordinator.png)
-
----
-
-## Turn Coordinator
-
-Rate of Turn & Rate of Roll
-- Standard-rate turn: 360° in 2min (3°/sec)
-- No bank info
-
-Coordination
-
----
-
-## Turn Coordinator
-
-<center>
-
-![h:500](images/turn-coordinator-illustration.png)
-
-</center>
+<timer>00:02</timer>
 
 ---
 
@@ -52,6 +43,8 @@ Coordination
 <center>
 
 [![h:400](https://img.youtube.com/vi/FN-yKPhNo1Q/0.jpg)](https://www.youtube.com/watch?v=FN-yKPhNo1Q&t=3s)
+
+<timer>00:03</timer>
 
 ---
 
@@ -69,3 +62,16 @@ Coordination
 
 </center>
 
+<timer>00:05</timer>
+
+---
+
+## How does it work
+
+<center>
+
+![h:500](images/turn-coordinator-illustration.png)
+
+</center>
+
+<timer>00:07</timer>

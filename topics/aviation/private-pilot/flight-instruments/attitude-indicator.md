@@ -7,35 +7,58 @@ theme: aviation
 
 # Attitude Indicator
 
-![bg right fit](images/attitude-indicator.png)
+---
+
+## Attitude Indicator
+
+<center>
+
+![h:400](images/attitude-indicator.png) ![h:400](images/g1000-attitude-indicator.png)
+
+</center>
+
+<simulation>
+
+[Simulation][1]
+
+[1]:https://flightapps.erau.edu/interactive/3Dinstruments/attitude.html
+</simulation>
+
+
+<timer>00:01</timer>
 
 ---
 
 ## Why is it important?
 
+Attitude indicator provides:
+- Bank angle
+- Pitch angle
+
+<timer>00:02</timer>
+
 <!--
+prevents loss of control
 -->
 
 ---
 
-## Attitude Indicator
+## How does it work?
 
-![h:400](images/attitude-indicator.png) ![h:400](images/g1000-attitude-indicator.png)
+
+![bg right:60% fit](images/attitude-indicator-illustration.png)
+
+<timer>00:04</timer>
+
+<!--
+https://www.youtube.com/watch?v=f2thngd9AGI
+-->
 
 ---
 
-<center>
+## Limitations
 
-![h:550](images/attitude-indications.png)
-
-</center>
-
----
-
-## Attitude Indicator
-
-Limitations
 - Pitch: ~±60°
 - Bank: ~±100°
 
-![bg right fit](images/attitude-indicator-illustration.png)
+<timer>00:05</timer>
