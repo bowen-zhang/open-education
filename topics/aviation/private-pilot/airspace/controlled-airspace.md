@@ -142,7 +142,7 @@ For less busy airports with moderate commercial traffic.
 ## Class D
 
 <non-key>
-For evne les busy airports.
+For even less busy airports.
 </non-key>
 <br/><br/>
 
