@@ -58,6 +58,9 @@ non-key {
 quote {
    color: grey;
    font-style: italic;
+   display: inline-block;
+   margin-left: 40px;
+   
 }
 
 quote:before {
@@ -70,6 +73,18 @@ quote:before {
    position:relative;
    top:-20px;
 }
+
+quote:after {
+   display: inline-block;
+   font-size: 300%;
+   content: close-quote;
+   font-family: Arial, Helvetica, sans-serif;
+   height: 1px;
+   position:relative;
+   line-height: 1px;
+   top:30px;
+}
+
 
 small {
    font-size: 22px;
@@ -123,6 +138,10 @@ white {
 
 red {
    color: red;
+}
+
+blue {
+   color: blue;
 }
 
 yellow {

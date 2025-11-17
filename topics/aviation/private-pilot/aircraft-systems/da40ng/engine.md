@@ -1,6 +1,6 @@
 ---
 marp: true
-header: Principle of Flight
+header: Aircraft Systems - DA40NG
 footer: © 2024 Dream of Flight, Inc
 ---
 

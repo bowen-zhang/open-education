@@ -136,7 +136,7 @@ HUD: minimum 300ft RVR, cost $500k
 
 ## Takeoff Minimum
 
-||Non-Standard<br/>(Part 121/135)|Non-Standard<br/>(Part 91)|Standard<br/>(Part 121/135)|Standard</br>(Part 91)|
+||Specified<br/>(Part 121/135)|Specified<br/>(Part 91)|Standard<br/>(Part 121/135)|Standard</br>(Part 91)|
 |--:|:--:|:--:|:--:|:--:|
 Visibility|As specified|-|1 sm (<=2 engines)</br>$1 \over 2$ sm (>2 engines)|-|
 |Ceiling|As specified|-|0|-|
@@ -153,21 +153,22 @@ Answer: One that allows return to land in case of emergency.
 
 ---
 
-## IFR Destination
+## IFR Destination - Part 121/135
 
-Part 121/135
-- <quote><small>CFR Part 135.219: flight crews and dispatchers may only designate an airport as a destination if the latest weather reports or forecasts, or any combination of them, indicate that the weather conditions will be at or above IFR landing minimums at the estimated time of arrival (ETA).</small><quote>
+<quote><small>CFR Part 135.219: flight crews and dispatchers may only designate an airport as a destination if the latest weather reports or forecasts, or any combination of them, indicate that the weather conditions will be at or above IFR landing minimums at the estimated time of arrival (ETA).</small></quote>
 <red>DON'T takeoff if you cannot land.</red>
-- <quote><small>CFR Part 135.225: Pilots may not begin an instrument approach unless the latest weather report indicates that the weather conditions are at or above the authorized IFR landing minimums for that procedure.</small></quote>
+
+<quote><small>CFR Part 135.225: Pilots may not begin an instrument approach unless the latest weather report indicates that the weather conditions are at or above the authorized IFR landing minimums for that procedure.</small></quote>
 <red>DON'T start approach if you cannot land.</red>
-- <quote><small>...required to land within the touchdown zone</small></quote>
+
+<quote><small>...required to land within the touchdown zone</small></quote>
 <red>DON'T land if you cannot land normally.</red>
 
 ---
 
-## IFR Destination
+## IFR Destination - Part 91
 
-Part 91
+<quote>   </quote>
 
 ---
 

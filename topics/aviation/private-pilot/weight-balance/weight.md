@@ -50,12 +50,17 @@ $Lift = \frac{1}{2} \times \rho \times V^2 \times C_L \times S$
 ## Max Weight
 
 - Max Take-off Weight
-- Max Landing Weight
+- <highlight>Max Landing Weight</highlight>
 - Max Zero-Fuel Weight
 - Max Load in Baggage Compartment
 
 ![bg right fit](images/max-weight-limits.png)
 
+<!--
+Max landing weight
+- can be lower than max take-off weight
+- may require abnormal operating procedure
+-->
 ---
 
 ## Weight Calculation
