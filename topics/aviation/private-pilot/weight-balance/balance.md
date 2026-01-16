@@ -111,6 +111,11 @@ $$50lbs \times 1ft = 5lbs \times 10ft = 50 ft \cdot lbs$$
   - Aft CG Limit
 - Lateral
 
+<!--
+Forward CG: determined by elevator authority in landing round out
+Aft CG: determined by minimum acceptable longitudinal stability
+-->
+
 ---
 
 ## Permissible CG Range
