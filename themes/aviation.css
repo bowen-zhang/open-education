@@ -24,6 +24,10 @@ flex-col {
    border-right: solid 3px #eeeeee;
 }
 
+flex-col ul {
+   padding-left: 40px;
+}
+
 col-2 {
    float: left;
    padding-right: 50px;
@@ -110,7 +114,10 @@ footnote {
 }
 
 img[alt~="right"] {
-   float: right;
+   position: absolute;
+   right: 20px;
+   top: 50%;
+   transform: translateY(-50%);
 }
 
 img[alt~="right-bottom"] {

@@ -132,6 +132,10 @@ With OEI:
 
 ---
 
+# Low Altitude Engine Failures
+
+---
+
 ## Low Altitude Engine Failures
 
 **After takeoff, before landing gear is UP**
@@ -306,3 +310,122 @@ Checklist
 </flex-col>
 
 ![right h:250](images/checklist-secure-engine.png)
+
+---
+
+# Inflight Engine Failures
+
+---
+
+<flex-col>
+
+Fly the airplane
+
+</flex-col>
+<flex-col>
+
+Use Checklist
+
+</flex-col>
+
+---
+
+<col-2>
+
+**Non-catastrophic failures**
+- fuel starvation
+- carb ice
+- mixture
+- fuel vapor
+
+Leave the engine running
+
+</col-2>
+<col-2>
+
+**Catastophic failures**
+- heavy vibration
+- smoke
+- blistering paint
+- trails of oil
+
+Secure engine and divert
+
+</col-2>
+
+---
+
+## Other Considerations
+
+For extended signle-engine operation
+- Crossfeed
+
+If above single-engine absolute ceiling
+- Fly V<sub>YSE</sub>
+
+During single-engine descent
+- Deceiving: absence of dramatic yaw & performance loss
+- Upon suspected failure, advance both engine mixture / throttle / prop to identify
+
+---
+
+# Engine Inoperative Approach and Landing
+
+---
+
+## General Procedure
+
+Same procedure.
+
+
+**Be aware of**
+- Asymmetrical thrust
+- Higher-than-normal power settings
+- \> V<sub>YSE</sub>
+
+---
+
+## Downwind
+
+Performance permitting, Ok to...
+- extend landing gear
+- extend initial flaps
+- descent from TPA
+- fly LH or RH traffic pattern
+
+---
+
+## Base
+
+- Intermediate flaps if performance is adequate
+- \> V<sub>YSE</sub>
+
+---
+
+## Final
+
+- 3° glidepath
+- Avoid sudden power change
+- \> V<sub>YSE</sub> until landing is assured
+- 1.3 V<sub>SO</sub>
+- Expect rudder trim change*
+- Expect more floating
+
+<footnote>
+
+* consider resetting rudder trim to neutral on final
+
+</footnote>
+
+<!--
+
+- Steeper approach may be acceptable
+- Avoid long, flat, low approach
+
+-->
+
+---
+
+## Go Around
+
+May not be possible.
