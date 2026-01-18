@@ -15,4 +15,5 @@ theme: aviation
 - [Aircraft System](aircraft-system.md)
 - [Performance](performance.md)
 - [Weight Balance](weight-balance.md)
-- [Operations](operations.md)
+- [Normal Operations](normal-operations.md)
+- [Single Engine Operations](single-engine-operations.md)

@@ -9,14 +9,21 @@ theme: aviation
 
 ---
 
-"small" multi-engine airplane: MTOW < 12,500 lbs
-"light-twin": MTOW < 6,000 lbs
+## Definitions
 
-One Engine Inoperative (OEI)
-- performance
+- "Small" multi-engine airplane: MTOW < 12,500 lbs
+- "Light-twin": MTOW < 6,000 lbs
+
+---
+
+## One Engine Inoperative (OEI)
+
+- Performance
   - -50% power
   - -80-90% climb performance
-- control
+- Control
+
+![right-bottom h:300](images/one-engine-inoperative.jpg)
 
 ---
 
@@ -59,6 +66,8 @@ One Engine Inoperative (OEI)
 
 ---
 
+## Certification for Normal Category Airplane (cont.)
+
 **Climb Performance Requirements**
 
 (For Type certificate after 2/4/1991)
@@ -73,3 +82,7 @@ One Engine Inoperative (OEI)
 [1]: https://www.ecfr.gov/current/title-14/section-23.2120
 
 </reference>
+
+<!--
+for DA42 at 85kts: 130 fpm
+-->

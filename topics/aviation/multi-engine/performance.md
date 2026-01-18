@@ -9,7 +9,7 @@ theme: aviation
 
 ---
 
-## Definitions
+## Takeoff Distance
 
 - **Accelerate-Stop Distance**
 0 => V<sub>R</sub> => engine failure => stop
@@ -35,7 +35,7 @@ Decision point: landing gear is selected up
 
 ---
 
-## Definitions
+## Service Ceiling
 
 - **All-Engine Service Ceiling**
 Highest altitude with steady climb rate of 100fpm

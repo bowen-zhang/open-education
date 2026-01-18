@@ -59,5 +59,3 @@ equipment installed beyond standard
 
 - **Ramp Weight**
 - **Max Landing Weight**
-
----
