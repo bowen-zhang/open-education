@@ -19,8 +19,8 @@ theme: aviation
 ## One Engine Inoperative (OEI)
 
 - Performance
-  - -50% power
-  - -80-90% climb performance
+  - ↓ 50% power
+  - ↓ 80-90% climb performance
 - Control
 
 ![right-bottom h:300](images/one-engine-inoperative.jpg)

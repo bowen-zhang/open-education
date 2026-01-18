@@ -25,7 +25,7 @@ theme: aviation
 
 ---
 
-## V<sub>MC</sub>
+## Minimum Control Speed: V<sub>MC</sub>
 
 - Maintain control of airplane
 - Maintain straight flight with bank angle < 5°
