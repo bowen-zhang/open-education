@@ -12,7 +12,9 @@ theme: aviation
 ## Ground Lessons
 
 - [Definitions](definitions.md)
-- [Aircraft System](aircraft-system.md)
+- Aircraft System
+  - [Generic](aircraft-system/generic/aircraft-system.md)
+  - [Diamond DA42](aircraft-system/da42/index.md)
 - [Performance](performance.md)
 - [Weight Balance](weight-balance.md)
 - [Normal Operations](normal-operations.md)

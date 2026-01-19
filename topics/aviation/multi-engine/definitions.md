@@ -86,3 +86,22 @@ theme: aviation
 <!--
 for DA42 at 85kts: 130 fpm
 -->
+
+---
+
+# Flight Review & Currency
+
+<col-2>
+
+**Flight Review**
+
+- Any aircraft
+
+</col-2>
+<col-2>
+
+**Currency**
+
+- Per aircraft category / class
+
+</col-2>

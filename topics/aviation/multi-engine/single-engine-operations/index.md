@@ -9,19 +9,131 @@ theme: aviation
 
 ---
 
-## Flight Principles
+## Aerodynamic Factors
 
-- Performance
-- Control
+- P-factor
+- Accelerated slipstream
+- Spiraling slipstream
+- Torque
+
+---
+
+## P-Factor
+
+- Descending blade: more thrust
+- Ascending blade: less thrust
+
+|Left engine fails|Right engine fails|
+|:--:|:--:|
+|More yaw to left|Less yaw to right|
+
+![bg right fit](images/p-factor.png)
+
+---
+
+## Accelerated Slipstream
+
+Due to P-factor...
+
+- Descending blade: more airflow
+- Ascending blade: less airflow
+
+|Left engine fails|Right engine fails|
+|:--:|:--:|
+|More roll to left|Less roll to right|
+
+![bg right fit](images/accelerated-slipstream.png)
+
+<!--
+slipstream => about 12% faster airflow
+-->
+
+---
+
+## Spiraling Slipstream
+
+Due to P-factor...
+
+- Descending blade: lower pressure
+- Ascending blade: higher pressure
+
+=> Slipstream drift to right
+
+|Left engine fails|Right engine fails|
+|:--:|:--:|
+|Less airflow over rudder|same airflow over rudder|
+
+![bg right fit](images/spiraling-slipstream.png)
+
+---
+
+## Torque
+
+<non-key>
+
+Newton's 3rd law: for every action there's an equal and opposite reaction.
+
+</non-key>
+
+|Left engine fails|Right engine fails|
+|:--:|:--:|
+|Torque amplifies left roll|Torque offset right roll|
+
+![bg right fit](images/torque.png)
 
 ---
 
 ## Critical Engine
 
-- Left engine (if rotating clockwise)
-- Most adverse effect on directional control upon failure
+Most adverse effect on directional control upon failure
 
-![center h:400](images/critical-engine.png)
+||Left engine fails|Right engine fails|
+|--|:--:|:--:|
+|P-factor|+ left yaw|- right yaw|
+|Accelerated<br/> Slipstream|+ left roll|- right roll|
+|Spiraling<br/> Slipstream|- rudder authority|no change|
+|Torque|Amplifies Left roll|Offset right roll|
+
+![right-bottom h:220](images/critical-engine.png)
+
+---
+
+## Control
+
+If using rudder only...
+
+![center h:450](images/rudder-with-wing-level.png)
+
+---
+
+## Control
+
+If using bank only...
+
+![center h:450](images/excessive-bank-without-rudder.png)
+
+<!--
+Excessive bank:
+- uncomfortable
+- reduce performance (more drag, less vertical lift)
+-->
+
+---
+
+## Zero Sideslip
+
+![right-bottom h:330](images/zero-slip.png)
+
+With both engines operative:
+- Coordinated flight (0° bank, ball centered)
+
+With OEI:
+- bank 2-3° towards good engine
+- ball one-half towards good engine
+
+=> Best climb performance
+
+<br/><br/>
 
 ---
 
@@ -34,9 +146,10 @@ theme: aviation
 
 Increases, when:
 - Drag ↑ on inoperative engine (windmilling, high rpm)
+- Power ↑
 - CG moves aft
 - Weight ↓
-- Landing gear retracted
+- Flaps & landing gear UP
 - Bank angle ↓
 
 <!--
@@ -45,6 +158,8 @@ lower weight:
   => lower lift => lower horizontal component of lift when banking => less force to counter turns towards inop engine
 
 -1° bank angle => +3kts V<sub>MC</sub>
+
+Flaps: increase drag on operating engine's wing, counteracts yaw
 -->
 
 ---
@@ -59,6 +174,8 @@ lower weight:
 - Trim: TO
 - No ground effect
 - Bank angle: 5°
+
+[![right-bottom h:350](images/vmc-determination.png)](https://www.youtube.com/watch?v=RQeBHSsL56o)
 
 ---
 
@@ -117,18 +234,13 @@ As altitude increases:
 
 ![bg right fit](images/vmc-vs.png)
 
----
+<!--
+High altitude...
+=> decrease power (normally aspirated engine)
+=> less asymmetric thrust
 
-## Zero Sideslip
-
-With both engines operative:
-- Coordinated flight (0° bank, ball centered)
-
-With OEI:
-- bank 2-3° towards good engine
-- ball one-half towards good engine
-
-=> Best climb performance
+DA42: turbochargers maintain sea-level power up to 8000ft
+-->
 
 ---
 
@@ -158,8 +270,9 @@ Landing under control
 ![](images/engine-failure-after-gear-up-unable-to-climb.png)
 
 <!--
-very high success rate of off-airport engine inoperative landings when the airplane is
-landed under control.
+DA42: ~2.6% climb rate with single engine.
+
+very high success rate of off-airport engine inoperative landings when the airplane is landed under control.
 -->
 
 ---
@@ -317,18 +430,10 @@ Checklist
 
 ---
 
-<flex-col>
+## Inflight Engine Failures
 
-Fly the airplane
-
-</flex-col>
-<flex-col>
-
-Use Checklist
-
-</flex-col>
-
----
+- Fly the airplane
+- Use Checklist
 
 <col-2>
 
@@ -413,7 +518,7 @@ Performance permitting, Ok to...
 
 <footnote>
 
-* consider resetting rudder trim to neutral on final
+consider resetting rudder trim to neutral on final
 
 </footnote>
 

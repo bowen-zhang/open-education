@@ -154,8 +154,4 @@ ON when:
 
 ## VFR Procedure / Noise Abatement
 
-![center h:500](images/vfr-procedure.png)
-
-<!--
-https://cdn.kingcounty.gov/-/media/king-county/depts/executive-services/airport/pilot-information/bfi-vfr-routes-final-20210515.pdf
--->
+![center h:500](images/nontowered-airport-noise-abatement.png)

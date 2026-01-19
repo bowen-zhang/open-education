@@ -31,6 +31,12 @@ Regulation: no requirement on runway length
 ADM: always use runway > accelerate-go distance
 
 Decision point: landing gear is selected up
+
+DA42 (max weight, SL, 20C):
+- Ground roll: 1400ft
+- Clear 50ft: 2600ft
+- Accelerate-stop: 2700ft
+- Accelerate-go: 3200ft
 -->
 
 ---
