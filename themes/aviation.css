@@ -24,6 +24,12 @@ flex-col {
    border-right: solid 3px #eeeeee;
 }
 
+flex-col:last-of-type {
+   border-right: none;
+   margin-right: 0px;
+   padding-right: 0px;
+}
+
 flex-col ul {
    padding-left: 40px;
 }
@@ -64,6 +70,10 @@ key {
 non-key {
    color: rgb(158, 158, 158);
    font-size: 80%;
+}
+
+hint {
+   color: rgb(158, 158, 158);
 }
 
 quote {
@@ -164,6 +174,10 @@ yellow {
 
 green {
    color: green;
+}
+
+white {
+   color: white;
 }
 
 disabled {

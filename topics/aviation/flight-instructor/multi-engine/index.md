@@ -5,6 +5,20 @@ footer: © 2024 Dream of Flight, Inc
 theme: aviation
 ---
 
+# Multi-Engine Instructor Course
+
+---
+
+# Ground Lessons
+
+---
+
+# Flight Lessons
+
+- [Drag Demo](maneuvers/drag-demo.md)
+
+---
+
 ## Preflight Briefing
 
 - Objectives
