@@ -15,7 +15,7 @@ theme: aviation
 - [Aerodynamic](aerodynamic/index.md)
 - Aircraft System
   - [Generic](aircraft-system/generic/aircraft-system.md)
-  - [Diamond DA42](aircraft-system/da42/index.md)
+  - [Diamond DA42](aircraft-system/da42-vi/index.md)
 - [Performance](performance.md)
 - [Weight Balance](weight-balance.md)
 - [Normal Operations](normal-operations.md)
