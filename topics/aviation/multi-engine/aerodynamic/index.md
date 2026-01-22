@@ -184,20 +184,6 @@ Flaps: increase drag on operating engine's wing, counteracts yaw
 
 ---
 
-## V<sub>MC</sub> Determination
-
-Static condition
-- Maintain straight flight with bank angle < 5°
-
-Dynamic condition
-- Max power
-- Climbing
-- Cut power
-- Pitch down to maintain speed
-- Maintain directional control within 20° of the original entry heading
-
----
-
 ## V<sub>MC</sub> Demo
 
 As altitude increases:

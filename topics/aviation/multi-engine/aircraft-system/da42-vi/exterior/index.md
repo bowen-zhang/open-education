@@ -33,10 +33,10 @@ theme: aviation
 
 ## Pitot & Static
 
-![h:400](images/pitot-tube.png) ![h:400](images/static-port.png)
+![h:380](images/pitot-tube.png) ![h:380](images/static-port.jpg)
 
 ---
 
 ## Lift Detector
 
-![center h:450](images/lift-detector.png)
+![center h:450](images/lift-detector.jpg)
