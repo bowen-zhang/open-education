@@ -31,8 +31,8 @@ theme: aviation
 - [Electrical System](electrical-system/index.md)
 - Oxygen System
 - Ice Protection System
-- [Performance](performance.md)
-- [Weight Balance](weight-balance.md)
+- [Performance](performance/index.md)
+- [Weight Balance](weight-balance/index.md)
 - Misc
 - Servicing
 
