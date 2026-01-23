@@ -36,7 +36,6 @@ theme: aviation
 - [Steep Turns](maneuvers/steep-turns.md)
 - [Emergency Descent](maneuvers/emergency-descent.md)
 - [V<sub>MC</sub> Demonstration](maneuvers/vmc-demo.md)
-- One Engine Inoperative
 
 </col-2>
 <col-2>
@@ -44,6 +43,10 @@ theme: aviation
 **Takeoff / Landings**
 
 - Normal Takeoff / Landing
-- Short-Field Takeoff / Landing
+- [Short-Field Takeoff / Landing](maneuvers/short-field.md)
+
+**One Engine Inoperative**
+
+- [One engine inoperative](maneuvers/one-engine-inoperative.md)
 
 </col-2>

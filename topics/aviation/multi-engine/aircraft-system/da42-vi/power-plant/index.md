@@ -17,21 +17,41 @@ theme: aviation
 
 - 2x Austro E4-C diesel engines
 - 4 cylinders
-- Liquid-cooled
 - Common-rail direct injection
+- Glow plug (per cylinder)
+- High pressure fuel pump
+(engine driven)
+
+<non-key>
+No spark plug & magneto
+<non-key>
+
+</left>
+<right>
+
+![w:550](images/common-rail.jpg)
+
+![w:550](images/diesel-engine-cycles.png)
+
+<!--
+Advantage: simpler with less parts to fail.
+-->
+---
+
+## Engine (cont.)
+
+- Liquid-cooled
 - Reduction gear 1:1.69
 - Dual digital engine control unit (ECU)
 - Turbocharger
 - Max power: 165HP
   100% for 5min, 92% continuously
 
-</left>
-<right>
+![bg right fit](images/engine-illustration-1.png)
 
-![w:300](images/engine-front-view.png)
-![w:300](images/engine-top-view.png)
-![w:300](images/engine-left-hand-view.png)
-
+<!--
+- gearbox: improve efficiency, high torque with low rpm
+-->
 ---
 
 ![center h:550](images/engine-photo-1.png)
@@ -55,10 +75,15 @@ theme: aviation
 - 2x ECU
 - Voter switches (3-position)
 - Default: AUTO
-  - Operating hours
-  - Malfunction
+  - Auto select by operating hours
+  - Switch upon malfunction
 
-![bg right fit](images/ecu-diagram.png)
+![bg right:46% fit](images/ecu-diagram.png)
+
+<!--
+- Input
+- Output (Regulates...)
+-->
 
 ---
 
@@ -95,41 +120,6 @@ Only if:
 - Power lever selects "Load" in %
 
 ![center h:450](images/power-load.png)
-
----
-
-## Propeller
-
-- 3-blade wooden propeller
-- Constant speed
-- Feathering
-- Prop pitch by ECU (electro-mechanical actuator)
-- Governor by gearbox oil
-  - high oil pressure => low pitch (high RPM)
-  - low oil pressure => high pitch (low RPM)
-
-![bg right:35%](images/engine-prop.jpg)
-
----
-
-## Feathering System
-
-When gear oil pressure is lost
-- Feathering
-When > 1300rpm:
-- Engine master OFF => Feathering
-When < 1300rpm:
-- High pitch lock
-
-Unfeathering
-- Engine master ON => oil pressure from accumulator
-- Starter => oil pressure build up 
-
----
-
-## Failure
-
-![center h:450](images/prop-failure-checklist.png)
 
 ---
 

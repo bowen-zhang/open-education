@@ -34,6 +34,11 @@ flex-col ul {
    padding-left: 40px;
 }
 
+container {
+   display: block;
+   clear: both;
+}
+
 col-2 {
    float: left;
    padding-right: 50px;

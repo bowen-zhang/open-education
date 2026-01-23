@@ -13,10 +13,33 @@ theme: aviation
 
 ## Overview
 
-- Hydraulically operated
-- Electrically powered hydraulic pump
-- Electrically actuated hydraulic valves operated by gear selector switch
-- "Squat switch“ prevents retraction on ground
+<flex-col>
+
+**UP**
+- By hydraulic pressure
+- Using hydraulic pump
+(electrical)
+- Regularly maintain pressure*
+
+</flex-col>
+<flex-col>
+
+**DOWN**
+- By spring
+
+</flex-col>
+
+<container>
+
+Gear switch down => electrically actuate hydraulic valves => release pressure
+
+</container>
+
+![right-top w:400](images/landing-gear-unsafe-warning.jpg)
+
+<!--
+When turning on master switch, hydraulic pump works for 5-20s to build pressure.
+-->
 
 ---
 

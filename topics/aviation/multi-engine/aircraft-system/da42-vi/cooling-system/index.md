@@ -9,20 +9,33 @@ theme: aviation
 
 ---
 
-<left>
+- Engine cooling
+- Engine intake air cooling
+- Engine oil cooling
+- Gearbox oil cooling
+- Fuel cooling
+- Cabin heating/cooling
+
+![bg right:52%](images/air-inlet.png)
+
+---
+
+## Engine Cooling
+
+<col-2>
 
 **Below 88°C**
 
 ![w:400](images/cooling-below-88c.png)
 
-</left>
-<right>
+</col-2>
+<col-2>
 
 **Above 88°C**
 
 ![w:400](images/cooling-above-88c.png)
 
-</right>
+</col-2>
 
 ---
 

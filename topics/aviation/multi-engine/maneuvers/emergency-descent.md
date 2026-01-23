@@ -59,8 +59,7 @@ NA
 1. Gear: DOWN
 1. Bank: 30-45°
 1. Pitch: 15-20° down
-
-Ensure speed < V<sub>NE</sub>
+1. Airspeed: < 140kts
 
 ---
 
@@ -75,8 +74,8 @@ Ensure speed < V<sub>NE</sub>
 
 ## ACS Standard
 
-||Airspeed<br/>(Upon recovery)|Heading|Altitude<br/>(Level off)|
-|--|:--:|:--:|:--:|
-|Private Pilot|+0 / -10 kts||± 100ft|
-|Commercial Pilot|+0 / -10 kts||± 100ft|
-|Flight Instructor|+0 / -10 kts||± 100ft|
+||Bank|Airspeed<br/>(Upon recovery)|Heading|Altitude<br/>(Level off)|
+|--|:--:|:--:|:--:|:--:|
+|Private Pilot|30-45°|+0 / -10 kts||± 100ft|
+|Commercial Pilot|30-45°|+0 / -10 kts||± 100ft|
+|Flight Instructor|30-45°|+0 / -10 kts||± 100ft|

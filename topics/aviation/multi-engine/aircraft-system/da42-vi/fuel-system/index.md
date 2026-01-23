@@ -37,7 +37,7 @@ theme: aviation
 - Fuel filler
 - Fuel vent
 - Fuel drain
-- Fuel quantity sensors
+- Fuel quantity sensors (0-12, 17-25 gal)
 - Fuel temperature / low level sensors
 - Fuel level switch (<17 gal)
 

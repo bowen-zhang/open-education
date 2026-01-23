@@ -30,6 +30,7 @@ Buses
 ## Hot Battery Bus
 
 - Pilot map / reading light
+- ELT
 
 ---
 

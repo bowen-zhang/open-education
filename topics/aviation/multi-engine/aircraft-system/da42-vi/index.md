@@ -17,11 +17,12 @@ theme: aviation
 
 - [Exterior](exterior/index.md)
 - [Interior](interior/index.md)
-- [Landing Gear](landing-gear/index.md)
 - [Flight Controls](flight-controls/index.md)
+- [Landing Gear](landing-gear/index.md)
 - [Power Plant](power-plant/index.md)
 - [Cooling System](cooling-system/index.md)
 - [Turbocharger](turbocharger/index.md)
+- [Propeller](propeller/index.md)
 
 </col-2>
 <col-2>

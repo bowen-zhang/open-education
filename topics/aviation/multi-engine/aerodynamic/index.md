@@ -5,7 +5,40 @@ footer: © 2024 Dream of Flight, Inc
 theme: aviation
 ---
 
-# Aerodynamic
+# Aerodynamics
+<non-key>
+during engine failure
+</non-key>
+
+---
+
+## Engine Failure
+
+![center h:500](images/oei-behavior.png)
+
+<!--
+- Yaw
+- Roll (differential airflow over wing => differential lift)
+
+Q: Is engine failure from one side worse than the other?
+-->
+
+---
+
+<col-2>
+
+**<center>Conventional Multi-Engine</center>**
+
+![](images/da42.jpg)
+
+</col-2>
+<col-2>
+
+**<center>Non-Conventional Multi-Engine</center>**
+
+![](images/piper-seminole.jpg)
+
+</col-2>
 
 ---
 
@@ -146,16 +179,15 @@ Like V<sub>S</sub>, not a fixed number.
 
 ---
 
-|Factor|Most Unfavorable<br/>Condition|Control|Performance|V<sub>MC</sub>|
-|--|:--:|:--:|:--:|:--:|
-|Density altitude|Std. day @ sea level|worse|better|worse|
-|Weight|Light|worse|better|worse|
-|CG|Aft|worse|better|worse|
-|Power|MAX|worse|better|worse
-|Flaps|UP|worse|better|worse|
-|Gear|UP|worse|better|worse|
-|Prop|Windmilling|worse|worse|worse|
-|Bank|0°|worse|worse|worse|
+||Factor|Most Unfavorable<br/>Condition|Control|Performance|V<sub>MC</sub>|
+|--|--|:--:|:--:|:--:|:--:|
+|S|Density altitude|Low (cold day, sea level)|worse|better|worse|
+|M|Power|MAX|worse|better|worse
+|A|CG|Aft|worse|better|worse|
+|C|Prop|Windmilling|worse|worse|worse|
+|F|Flaps & Gear|UP|worse|better|worse|
+|U|Bank|0°|worse|worse|worse|
+|M|Weight|Light|worse|better|worse|
 
 <!--
 lower weight:
