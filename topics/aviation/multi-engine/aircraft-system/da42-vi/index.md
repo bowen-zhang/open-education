@@ -18,7 +18,7 @@ theme: aviation
 - [Exterior](exterior/index.md)
 - [Interior](interior/index.md)
 - [Landing Gear](landing-gear/index.md)
-- Flight Controls
+- [Flight Controls](flight-controls/index.md)
 - [Power Plant](power-plant/index.md)
 - [Cooling System](cooling-system/index.md)
 - [Turbocharger](turbocharger/index.md)
@@ -28,11 +28,11 @@ theme: aviation
 
 - [Fuel System](fuel-system/index.md)
 - [Electrical System](electrical-system/index.md)
-- [Oxygen System]()
-- [Ice Protection System]()
+- Oxygen System
+- Ice Protection System
 - [Performance](performance.md)
 - [Weight Balance](weight-balance.md)
-- [Misc]()
-- [Servicing]()
+- Misc
+- Servicing
 
 </col-2>

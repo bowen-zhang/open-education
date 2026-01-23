@@ -53,3 +53,22 @@ theme: aviation
 
 </flex-col>
 
+---
+
+## One Engine Inoperative Climb Performance
+
+Training scenario:
+- 50 gal fuel
+- 2 people
+- 1800 lbs
+- standard day @ sea level
+
+=> 310fpm => 3.6% @ 85kts
+
+![bg right fit](images/oei-climb-performance.png)
+
+---
+
+## Abort or Continue?
+
+![bg right:55% fit](images/engine-failure-procedure.png)
