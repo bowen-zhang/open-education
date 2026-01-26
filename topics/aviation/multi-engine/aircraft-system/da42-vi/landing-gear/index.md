@@ -16,26 +16,28 @@ theme: aviation
 <flex-col>
 
 **UP**
-- By hydraulic pressure
-- Using hydraulic pump
-(electrical)
-- Regularly maintain pressure*
+- By constant hydraulic pressure
 
 </flex-col>
 <flex-col>
 
 **DOWN**
-- By spring
+- By hydraulic pressure
+- Assisted by spring
 
 </flex-col>
 
 <container>
 
+Hydraulic pump
+- electrical driven
+- Constantly maintain pressure
+
 Gear switch down => electrically actuate hydraulic valves => release pressure
 
 </container>
 
-![right-top w:400](images/landing-gear-unsafe-warning.jpg)
+![right-top w:350](images/landing-gear-unsafe-warning.jpg)
 
 <!--
 When turning on master switch, hydraulic pump works for 5-20s to build pressure.

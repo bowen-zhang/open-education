@@ -67,13 +67,17 @@ Highest altitude with steady climb rate of 50fpm
 
 ## Takeoff Distance
 
-- **Accelerate-Stop Distance**
-0 => V<sub>R</sub> => engine failure => stop
+**Accelerate-Stop Distance**
+- 0 => V<sub>R</sub> => engine failure => stop
 
-- **Accelerate-Go Distance**
-0 => V<sub>R</sub> => engine failure => climb to 50ft AGL
+**Accelerate-Go Distance**
+- 0 => V<sub>R</sub> => engine failure => climb to 50ft AGL
 
-![h:250](images/takeoff-distance.png)
+When do you abort takeoff?
+
+<br/><br/><br/><br/>
+
+![right-bottom h:250](images/takeoff-distance.png)
 
 <!--
 Accelerate-go distance:
@@ -114,3 +118,18 @@ Training scenario:
 ## Abort or Continue?
 
 ![bg right:55% fit](images/engine-failure-procedure.png)
+
+---
+
+## Analysis
+
+|Abort<br/>Altitude|Takeoff<br/>roll|Distance<br/>to Climb|Distance<br/>to Descent|Landing<br/>roll|Total<br/>distance|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|0ft|1250ft|-|-|1200ft|2450ft|
+|100ft|1250ft|800ft|1000ft|1200ft|4200ft|
+|200ft|1250ft|1500ft|2000ft|1200ft|6000ft|
+|300ft|1250ft|2300ft|3000ft|1200ft|7750ft|
+
+Assuming:
+- when both engines work, climb at 1200fpm
+- when one engine fails, descend at 900fpm

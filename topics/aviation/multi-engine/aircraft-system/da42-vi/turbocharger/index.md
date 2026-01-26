@@ -26,3 +26,7 @@ theme: aviation
 ## Engine Shutdown
 
 ![center h:200](images/engine-shutdown-notes.png)
+
+<!--
+To prevent oil in bearings from forming carbon deposit.
+-->
